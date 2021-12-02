@@ -1,0 +1,17 @@
+body {
+	position: static;
+	background-color: #8fc4b7;
+	height: 100vh;
+	min-width: 100vw;
+}
+.navegacion-links a{
+	color: inherit;
+	text-decoration: inherit;
+}
+#root{
+	height: 100%;
+}
+.navbar-brand a{
+	color: inherit;
+	text-decoration: inherit;
+}

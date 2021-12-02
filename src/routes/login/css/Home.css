@@ -1,0 +1,43 @@
+.navegacion-links{
+	justify-content: space-evenly;
+    width: 100%;
+}
+.home-container{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	width: 80%;
+	height: 100%;
+	padding: 5rem;
+	flex-wrap: wrap;
+	margin: 0% 10%;
+}
+.home-card{		
+	height: auto;
+	width: 70%;
+	flex-shrink: 1;
+	border-radius: 1rem;
+}
+.home-card-img{
+	border-top-left-radius: 1rem;
+	border-top-right-radius: 1rem;
+}
+.home-container-2{
+	display: flex;	
+}
+.home-card-2{
+	height: auto;
+	flex-grow: 1;
+    width: 50%;
+	border-radius: 1rem;
+}
+
+.card .card-title {
+	text-align: center;
+}
+.card-body{
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+
